@@ -1,1 +1,2 @@
-# java_trading_bot
+# Java_patterns
+Торговый бот 
