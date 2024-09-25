@@ -1,7 +1,7 @@
 package com.example;
 
 import java.time.LocalDateTime;
-
+//Prototype
 public class Candle implements Cloneable {
     private LocalDateTime timestamp;
     private double open;

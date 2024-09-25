@@ -4,7 +4,7 @@ import java.time.Duration;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
-
+//Static Factory Method
 public class CandleAggregator {
 // преобразование минутных свечей в 5, 15 минут и 1 часовые свечи
     public static List<Candle> aggregateTo5Minutes(List<Candle> minuteCandles) {
